@@ -252,6 +252,10 @@
 .#{$ionicons-prefix}help-circled:before,
 .#{$ionicons-prefix}home:before,
 .#{$ionicons-prefix}icecream:before,
+.#{$ionicons-prefix}icon-logout:before,
+.#{$ionicons-prefix}icon-phone:before,
+.#{$ionicons-prefix}icon-profile:before,
+.#{$ionicons-prefix}icon-record:before,
 .#{$ionicons-prefix}image:before,
 .#{$ionicons-prefix}images:before,
 .#{$ionicons-prefix}information:before,
@@ -988,6 +992,10 @@
 .#{$ionicons-prefix}help-circled:before { content: $ionicon-var-help-circled; }
 .#{$ionicons-prefix}home:before { content: $ionicon-var-home; }
 .#{$ionicons-prefix}icecream:before { content: $ionicon-var-icecream; }
+.#{$ionicons-prefix}icon-logout:before { content: $ionicon-var-icon-logout; }
+.#{$ionicons-prefix}icon-phone:before { content: $ionicon-var-icon-phone; }
+.#{$ionicons-prefix}icon-profile:before { content: $ionicon-var-icon-profile; }
+.#{$ionicons-prefix}icon-record:before { content: $ionicon-var-icon-record; }
 .#{$ionicons-prefix}image:before { content: $ionicon-var-image; }
 .#{$ionicons-prefix}images:before { content: $ionicon-var-images; }
 .#{$ionicons-prefix}information:before { content: $ionicon-var-information; }

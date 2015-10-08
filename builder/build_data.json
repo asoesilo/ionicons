@@ -1,5 +1,5 @@
 {
-  "build_hash": "e8e0d461cc44800af15d879d18b2b7e2",
+  "build_hash": "1a1602dc4866d3ee03016b360d03dd6b",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -1003,6 +1003,22 @@
     {
       "code": "0xf27d",
       "name": "icecream"
+    },
+    {
+      "code": "0xf138",
+      "name": "icon-logout"
+    },
+    {
+      "code": "0xf145",
+      "name": "icon-phone"
+    },
+    {
+      "code": "0xf13b",
+      "name": "icon-profile"
+    },
+    {
+      "code": "0xf13c",
+      "name": "icon-record"
     },
     {
       "code": "0xf147",
